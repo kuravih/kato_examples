@@ -1,0 +1,13 @@
+
+*.o
+*.code-workspace
+01_log/test_log
+02_function/test_function
+03_truetype/test_truetype
+04_sleep/test_sleep
+05_ccfits/test_ccfits
+06_fit/test_fit
+
+*.png
+
+*.ttf
